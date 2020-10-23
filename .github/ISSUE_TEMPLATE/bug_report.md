@@ -9,6 +9,7 @@ assignees: ''
 
 <!-- ⚠⚠ Do not delete this issue template! ⚠⚠ -->
 <!-- Issues that do not use the issue template are likely to be ignored and closed. -->
+<!-- Please do NOT open an issue for multiple problems in separate areas. Issues for general inaccuracies in ONE specific area are acceptable. -->
 
 
 **Mod Version**
